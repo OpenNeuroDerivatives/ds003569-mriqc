@@ -1,0 +1,8 @@
+Warning: Permanently added 'c168-134' (ECDSA) to the list of known hosts.
+WARNING (01/14/23 02:12:00): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5129436.hostlist.nw87xw8W to get hosts
+starting job on c168-134
+starting job on c168-171
+starting job on c168-192
+starting job on c168-203
+starting job on c170-164
