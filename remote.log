@@ -1,0 +1,1 @@
+b22ed84d-49d4-429d-974e-3b253ea3837b autoenable=true bucket=openneuro-derivatives datacenter=US encryption=none exporttree=yes fileprefix=mriqc/ds003569-mriqc/ host=s3.amazonaws.com name=openneuro-derivatives partsize=1GiB port=80 public=yes publicurl=https://openneuro-derivatives.s3.amazonaws.com storageclass=STANDARD type=S3 versioning=yes timestamp=1675898718.843486573s
